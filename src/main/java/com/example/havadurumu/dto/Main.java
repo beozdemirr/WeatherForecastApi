@@ -1,4 +1,4 @@
-package com.example.havadurumu.entity;
+package com.example.havadurumu.dto;
 
 import lombok.Data;
 
@@ -8,5 +8,4 @@ public class Main {
     private double feels_like;
     private double temp_min;
     private double temp_max;
-
 }
